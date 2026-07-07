@@ -43,7 +43,7 @@ O programa conta com uma comunidade no Discord para acompanhamento das aulas, dÃ
 ## ðŸ‘¤ Autor
 
 **Gustavo Henrique Gomes**
-- LinkedIn: [seu link aqui]
+- LinkedIn: https://www.linkedin.com/in/gustavo-henrique-gomes-programador/
 - GitHub: [@ghggustavo](https://github.com/ghggustavo)
 
 ---
