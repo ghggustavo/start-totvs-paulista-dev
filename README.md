@@ -36,17 +36,18 @@ start-totvs-paulista-dev/
 - Exercício de teoria (pseudocódigo, fluxograma, resposta escrita) → arquivo `.md` no lugar de `.prg`
 - Exercício com vários arquivos (mini-projeto) → subpasta `exNN-<descricao>/` com os arquivos dentro
 
-- **aulas/** → anotações e materiais de cada aula, organizados por número
-- **exercicios/** → exercícios práticos resolvidos durante o curso
-- **projetos/** → projetos maiores desenvolvidos ao longo do programa
 
 ## 💬 Comunidade
 
 O programa conta com uma comunidade no Discord para acompanhamento das aulas, dúvidas e networking com outros participantes.
 
 ## 🛠️ Tecnologias
+- Harbour
+- GitHub
+- Discord
+- VSCode
+- Google Classroom
 
-*(Atualizarei conforme o conteúdo do curso avançar)*
 
 ## 👤 Autor
 
