@@ -17,16 +17,24 @@ Documentar minha jornada de aprendizado ao longo do programa, servindo como:
 
 ## 🗂️ Estrutura do repositório
 
-```
+Cada módulo tem sua própria pasta, com os arquivos de exercício nomeados de forma padronizada:
+
 start-totvs-paulista-dev/
-├── aulas/
-│   ├── aula-01/
-│   ├── aula-02/
-│   └── ...
-├── exercicios/
-├── projetos/
-└── README.md
-```
+├── modulo-01/
+│   ├── ex01-hello.prg
+│   ├── ex02-saudacao.prg
+│   └── ex03-apresentacao.prg
+├── modulo-02/
+│   └── ex01-algoritmo-media.md
+├── modulo-03/
+├── ...
+└── modulo-10/
+
+**Regras de nomenclatura:**
+- Uma pasta por módulo: `modulo-01`, `modulo-02` ... `modulo-10` (sempre com 2 dígitos)
+- Um arquivo por exercício: `exNN-<descricao>.prg` (2 dígitos + nome curto em minúsculas com hífens)
+- Exercício de teoria (pseudocódigo, fluxograma, resposta escrita) → arquivo `.md` no lugar de `.prg`
+- Exercício com vários arquivos (mini-projeto) → subpasta `exNN-<descricao>/` com os arquivos dentro
 
 - **aulas/** → anotações e materiais de cada aula, organizados por número
 - **exercicios/** → exercícios práticos resolvidos durante o curso
