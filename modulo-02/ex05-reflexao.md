@@ -1,0 +1,3 @@
+Exercício 5 — Reflexão (opcional)
+
+Essa frase faz total sentido, porque o computador só executa aquilo que nós mandamos. Ele é uma máquina programada para receber nossos comandos, se digitamos algo errado a máquina também erra. A máquina não interpreta intenção, não entende o que quis dizer. Se o resultado sai errado, o erro está na lógica que a pessoa programou. A pessoa que programa precisa assumir total responsabilidade pela precisão do raciocínio, pensar em todos os casos possíveis antes de codar, testar mentalmente o algoritmo.
