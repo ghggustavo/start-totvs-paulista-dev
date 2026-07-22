@@ -4,8 +4,7 @@ FUNCTION Main()
     LOCAL nNum2      := 0
     LOCAL cOperacao  := ""
     LOCAL nResultado := 0
-
-    // Limpa a tela do terminal
+    
     CLS
 
     ? "======================================="
